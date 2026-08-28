@@ -2,7 +2,7 @@ import { StepIndicator, StepIndicatorItem } from "@/registry/krds/ui/step-indica
 
 export default function StepIndicatorAllDefault() {
   return (
-    <StepIndicator className="w-full" currentStep={0}>
+    <StepIndicator className="w-full max-w-2xl" currentStep={0}>
       <StepIndicatorItem step={1}>약관 동의</StepIndicatorItem>
       <StepIndicatorItem step={2}>본인 인증</StepIndicatorItem>
       <StepIndicatorItem step={3}>정보 입력</StepIndicatorItem>

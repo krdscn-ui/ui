@@ -2,7 +2,7 @@ import { StepIndicator, StepIndicatorItem } from "@/registry/krds/ui/step-indica
 
 export default function StepIndicatorWithPageTitle() {
   return (
-    <div className="w-full">
+    <div className="w-full max-w-2xl">
       <p className="text-krds-gray-90 mb-3 text-sm font-medium">회원가입</p>
       <StepIndicator currentStep={2} aria-label="회원가입">
         <StepIndicatorItem step={1}>약관 동의</StepIndicatorItem>
