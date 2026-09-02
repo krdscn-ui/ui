@@ -45,4 +45,6 @@ npx shadcn@latest add https://krdscn-ui.js.org/r/krds-theme.json
 
 ## License
 
-[MIT](./LICENSE) © smlee98, gwlee-dev
+소스 코드는 [MIT](./LICENSE) © smlee98, gwlee-dev 입니다.
+
+문서 사이트의 KRDS 가이드라인 콘텐츠는 행정안전부 「디지털 정부서비스 UI/UX 가이드라인(2025.08)」([krds.go.kr](https://www.krds.go.kr/))을 출처로 하며, 저작권법 제24조의2(공공저작물의 자유이용)에 따라 출처를 표시하여 이용합니다.
